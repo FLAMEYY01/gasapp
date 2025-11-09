@@ -1,9 +1,0 @@
-streamlit==1.47.1
-openpyxl==3.1.5
-matplotlib
-Pillow
-altair
-requests
-opencv-python
-onnxruntime
-scikit-learn
